@@ -15,6 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student.UnitTest", "Student
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student.Web", "Student.Web\Student.Web.csproj", "{28D2F1FF-59AE-4BFA-90CE-E2B7C3909141}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{48700459-D180-4576-8911-889E68CEF36D}"
+	ProjectSection(SolutionItems) = preProject
+		abcccccccc.txt = abcccccccc.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
